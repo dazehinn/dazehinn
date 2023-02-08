@@ -22,9 +22,9 @@
 
 - Student at Microverse
 - Currently learning Web Development
-- Personalportfolio [link](https://dazehinn.io/personal-portfolio)
-- Dogs and cats are my best pets
-- Learning chess
+- Personal portfolio [link](https://dazehinn.io/personal-portfolio)
+- Dogs and cats are among my favorite pets
+- Learning chess in my free time
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
