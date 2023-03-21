@@ -152,5 +152,6 @@
   <br />
   <img align="middle" src="https://profile-counter.glitch.me/{dazehinn}/count.svg" />
 </p>
-<img src='https://github-profile-trophy.vercel.app/?username=dazehinn' />
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=dazehinn />
+<img src='https://github-profile-trophy.vercel.app/?username=dazehinn' alt='trophy' />
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=dazehinn' alt='streak-stats' /> 
