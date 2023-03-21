@@ -144,7 +144,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dazehinn&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="dazehinn"/>
 
 <img  src="https://streak-stats.demolab.com/?user=dazehinn&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="dazehinn"/>
-
+<img src='https://github-readme-streak-stats.herokuapp.com?user=dazehinn&theme=violet-punch&hide_border=true&border_radius=10&fire=EB5454)](https://git.io/streak-stats' alt='streak-stats' />
+<img src='https://github-profile-trophy.vercel.app/?username=dazehinn' alt='trophy' />
 </a>
 </div>
 <p align="middle">
@@ -152,6 +153,6 @@
   <br />
   <img align="middle" src="https://profile-counter.glitch.me/{dazehinn}/count.svg" />
 </p>
-<img src='https://github-profile-trophy.vercel.app/?username=dazehinn' alt='trophy' />
 
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=dazehinn' alt='streak-stats' /> 
+
+ 
