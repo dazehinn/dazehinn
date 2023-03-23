@@ -151,8 +151,8 @@
 <p align="middle">
   Thanks for visiting me! Until next time.
   <br />
-  <img align="middle" src="https://profile-counter.glitch.me/{dazehinn}/count.svg" />
+  <img align="middle" src="https://profile-counter.glitch.me/{dazehinn}/count.svg" alt="number of visitors"/>
 </p>
 
 
- 
+  
